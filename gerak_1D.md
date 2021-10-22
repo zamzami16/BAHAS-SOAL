@@ -372,7 +372,7 @@ kecepatan awal <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi
 dibawa ke Bulan dan dilemparkan ke atas dengan
 kecepatan awal <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;2v_0"/>. Tentukanlah perbandingan
 tinggi maksimum di Bumi dan di Bulan.
-(Petunjuk: <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;g_{Bulan} = \frac{1}{6}g_{Bumi}"/>)
+(Petunjuk: <<img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;g_{Bulan}&space;=&space;\frac{1}{6}g_{Bumi}" title="\large g_{Bulan} = \frac{1}{6}g_{Bumi}" />)
 
 ---
 
