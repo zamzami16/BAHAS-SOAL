@@ -251,12 +251,8 @@ kecepatan benda menjadi 2 kali semula adalah ....
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{v_{0}2}{g}" title="\frac{v_{0}2}{g}" />
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{2v_{0}^2}{g}" title="\frac{2v_{0}^2}{g}" />
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{v_{0}^2}{2g}" title="\frac{v_{0}^2}{g}" />
-    
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{3v_{0}^2}{2g}" title="\frac{2v_{0}^2}{g}" />
-
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{2v_{0}^2}{3g}" title="\frac{2v_{0}^2}{g}" />
-
-    - <img src="https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\large&space;\frac{v_{0}2}{g}" title="\large \frac{v_{0}2}{g}" />
 
 ---
 
@@ -321,8 +317,7 @@ laju, dan kecepatan rata- rata pada waktu tersebut!
 ---
 
 3. Mobil A bergerak dengan laju 72 km/jam dan
-berada 200 m di belakang mobil B yang sedang ber-
-gerak dengan kelajuan 54 km/jam. Kapan mobil
+berada 200 m di belakang mobil B yang sedang bergerak dengan kelajuan 54 km/jam. Kapan mobil
 A menyusul mobil B?
 
 ---
@@ -373,11 +368,11 @@ di tanah.
 ---
 
 10. Sebuah benda dilemparkan ke atas dengan
-kecepatan awal $v_0$ dari permukaan Bumi. Jika benda
+kecepatan awal <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;v_0"/> dari permukaan Bumi. Jika benda
 dibawa ke Bulan dan dilemparkan ke atas dengan
-kecepatan awal $2v_0$. Tentukanlah perbandingan
+kecepatan awal <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;2v_0"/>. Tentukanlah perbandingan
 tinggi maksimum di Bumi dan di Bulan.
-(Petunjuk: $g_{Bulan} = \frac{1}{6}g_{Bumi}$
+(Petunjuk: <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;g_{Bulan} = \frac{1}{6}g_{Bumi}"/>)
 
 ---
 
@@ -390,4 +385,5 @@ tinggi maksimum di Bumi dan di Bulan.
 >
 >**SIkap Tawadlu' dan Serius**
 
-<img src="https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\large&space;\frac{v_{0}2}{g}" title="\large \frac{v_{0}2}{g}" />
+<!--
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\frac{v_{0}2}{g}"/> -->
