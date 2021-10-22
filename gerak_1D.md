@@ -385,3 +385,6 @@ tinggi maksimum di Bumi dan di Bulan.
 >
 >
 >**SIkap Tawadlu' dan Serius**
+
+
+<code xml:lang="latex">\frac{v_{0}2}{g}</code> 
