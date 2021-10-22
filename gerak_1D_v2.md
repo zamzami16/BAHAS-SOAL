@@ -48,7 +48,7 @@
     - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\frac{4}{1}" title="\large \frac{1}{4}" />
     - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\frac{16}{1}" title="\large \frac{1}{4}" />
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-4)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#4-)
 
 ---
 
@@ -59,7 +59,7 @@
     - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\frac{2h}{(t_2^2-t_1^2)^2}" title="\large \frac{2h}{(t_2^2-t_1^2)^2}" />
     - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\frac{h}{2(t_2^2-t_1^2)^2}" title="\large \frac{h}{2(t_2^2-t_1^2)^2}" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-5)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#5-)
 
 ---
 
@@ -70,7 +70,7 @@
     - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\frac{1}{2}\sqrt{6v}" title="\large \frac{1}{2}\sqrt{2v}" />
     - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;\sqrt{3v}" title="\large \sqrt{3v}" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-6)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#6-)
 
 ---
 
@@ -81,7 +81,7 @@
     - 144,2 m
     - 155,2 m
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-7)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#-7)
 
 ---
 
@@ -92,7 +92,7 @@
     - 5 s
     - 6 s
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-8)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#8-)
 
 ---
 
@@ -103,7 +103,7 @@
     - 57 m
     - 65 m
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-9)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#9-)
 
 ---
 
@@ -114,7 +114,7 @@
     - 2,0 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;h" title="\large m" />
     - 4,0 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;h" title="\large m" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#markdown-header-10)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[lihat kunci](kunci-gerak.md#10-)
 
 ---
 
