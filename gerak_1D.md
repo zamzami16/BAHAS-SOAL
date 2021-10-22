@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 
 # Soal Gerak
 
@@ -250,16 +248,11 @@ ke tanah adalah ....
 22. Sebuah benda dilemparkan ke bawah dengan
 kecepatan awal V<sub>0</sub>. Jarak dari posisi lempar supaya
 kecepatan benda menjadi 2 kali semula adalah ....
-
-    - ${\frac{v_{0}^2}{g}}$ 
-
-    - ${\frac{2v_{0}^2}{g}}$
-
-    - ${\frac{v_{0}^2}{2g}}$
-
-    - ${\frac{3v_{0}^2}{2g}}$
-
-    - ${\frac{2v_{0}^2}{3g}}$
+    - <img src="https://latex.codecogs.com/png.latex?\inline&space;\frac{v_{0}2}{g}" title="\frac{v_{0}2}{g}" />
+    - <img src="https://latex.codecogs.com/png.latex?\inline&space;\frac{2v_{0}^2}{g}" title="\frac{2v_{0}^2}{g}" />
+    - <img src="https://latex.codecogs.com/png.latex?\inline&space;\frac{v_{0}^2}{2g}" title="\frac{v_{0}^2}{g}" />
+    - <img src="https://latex.codecogs.com/png.latex?\inline&space;\frac{3v_{0}^2}{2g}" title="\frac{2v_{0}^2}{g}" />
+    - <img src="https://latex.codecogs.com/png.latex?\inline&space;\frac{2v_{0}^2}{3g}" title="\frac{2v_{0}^2}{g}" />
 
 ---
 
