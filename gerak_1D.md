@@ -251,8 +251,12 @@ kecepatan benda menjadi 2 kali semula adalah ....
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{v_{0}2}{g}" title="\frac{v_{0}2}{g}" />
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{2v_{0}^2}{g}" title="\frac{2v_{0}^2}{g}" />
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{v_{0}^2}{2g}" title="\frac{v_{0}^2}{g}" />
+    
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{3v_{0}^2}{2g}" title="\frac{2v_{0}^2}{g}" />
+
     - <img src="https://latex.codecogs.com/png.latex?\inline&space;\bg_white&space;\frac{2v_{0}^2}{3g}" title="\frac{2v_{0}^2}{g}" />
+
+    - <img src="https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\large&space;\frac{v_{0}2}{g}" title="\large \frac{v_{0}2}{g}" />
 
 ---
 
@@ -386,5 +390,4 @@ tinggi maksimum di Bumi dan di Bulan.
 >
 >**SIkap Tawadlu' dan Serius**
 
-
-<code xml:lang="latex">\frac{v_{0}2}{g}</code> 
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\large&space;\frac{v_{0}2}{g}" title="\large \frac{v_{0}2}{g}" />
