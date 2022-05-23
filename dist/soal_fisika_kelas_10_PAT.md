@@ -1,65 +1,85 @@
 ---
-![soal1]('source/PAT FIS-X 2022_Page1.png')
+## 1
+<img src="source/PAT FIS-X 2022_Page1.png" alt="drawing" width="450"/>
 
 ---
-![soal1](source/PAT FIS-X 2022_Page2.png)
+## 2
+<img src="source/PAT FIS-X 2022_Page2.png" alt="drawing" width="450"/>
 
 ---
-![soal1](source/PAT FIS-X 2022_Page3.png)
+## 3
+<img src="source/PAT FIS-X 2022_Page3.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page4.png)
+## 4
+<img src="source/PAT FIS-X 2022_Page4.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page5.png)
+## 5
+<img src="source/PAT FIS-X 2022_Page5.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page6.png)
+## 6
+<img src="source/PAT FIS-X 2022_Page6.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page7.png)
+## 7
+<img src="source/PAT FIS-X 2022_Page7.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page8.png)
+## 8
+<img src="source/PAT FIS-X 2022_Page8.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page9.png)
+## 9
+<img src="source/PAT FIS-X 2022_Page9.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page10.png)
+## 10
+<img src="source/PAT FIS-X 2022_Page10.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page11.png)
+## 11
+<img src="source/PAT FIS-X 2022_Page11.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page12.png)
+## 12
+<img src="source/PAT FIS-X 2022_Page12.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page13.png)
+## 13
+<img src="source/PAT FIS-X 2022_Page13.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page14.png)
+## 14
+<img src="source/PAT FIS-X 2022_Page14.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page15.png)
+## 15
+<img src="source/PAT FIS-X 2022_Page15.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page16.png)
+## 16
+<img src="source/PAT FIS-X 2022_Page16.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page16.png)
+## 17
+<img src="source/PAT FIS-X 2022_Page17.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page17.png)
+## 18
+<img src="source/PAT FIS-X 2022_Page18.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page18.png)
+## 19
+<img src="source/PAT FIS-X 2022_Page19.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page19.png)
+## 20
+<img src="source/PAT FIS-X 2022_Page20.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page20.png)
+## 21
+<img src="source/PAT FIS-X 2022_Page21.png" alt="drawing" width="450"/>
 
 ---
-![](source/PAT FIS-X 2022_Page21.png)
